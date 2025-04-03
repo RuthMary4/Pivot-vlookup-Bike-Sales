@@ -8,8 +8,8 @@ The analysis helps in understanding:
 - **Profitability** based on various financial metrics  
 
 ##  Dataset Details
-- ** Database Name:** [Europe Bike Store Sales ](https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales) 
-- ** File Format:** Excel (.csv)  
+- **Database Name:** [Europe Bike Store Sales ](https://www.kaggle.com/datasets/prepinstaprime/europe-bike-store-sales) 
+- **File Format:** Excel (.csv)  
 
 ###  Data Contains:
 ✅ **Date-wise sales records**  
