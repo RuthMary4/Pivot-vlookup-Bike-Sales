@@ -1,6 +1,6 @@
-# 📊 Europe Bike Store Sales Analysis
+# Europe Bike Store Sales Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project explores sales data from the **Europe Bike Store Sales** database using **Pivot Tables** and **VLOOKUP** functions in Excel.  
 The analysis helps in understanding:  
 - **Sales trends** across different regions  
